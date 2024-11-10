@@ -24,7 +24,7 @@ public:
         while(i==m+n && x<m+n){
             nums1[x]=nums2[j];
                 j++;x++;
-        }
+        }                    
         while(j==n && x<m+n){
             nums1[x]=nums1[i];
                 i++;x++;
