@@ -26,6 +26,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/tanish-garg-1/Leetcode/tree/master/0002-add-two-numbers) |
 | [0048-rotate-image](https://github.com/tanish-garg-1/Leetcode/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/tanish-garg-1/Leetcode/tree/master/0050-powx-n) |
 ## Matrix
 |  |
 | ------- |
@@ -68,6 +69,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/tanish-garg-1/Leetcode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/tanish-garg-1/Leetcode/tree/master/0021-merge-two-sorted-lists) |
+| [0050-powx-n](https://github.com/tanish-garg-1/Leetcode/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/tanish-garg-1/Leetcode/tree/master/0206-reverse-linked-list) |
 ## Hash Table
 |  |
