@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/tanish-garg-1/Leetcode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/tanish-garg-1/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/tanish-garg-1/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/tanish-garg-1/Leetcode/tree/master/0048-rotate-image) |
@@ -99,6 +100,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/tanish-garg-1/Leetcode/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/tanish-garg-1/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/tanish-garg-1/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/tanish-garg-1/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
