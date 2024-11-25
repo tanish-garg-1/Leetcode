@@ -16,8 +16,8 @@ public:
                 while(j+1<nums.size() && j>0 && nums[j]==nums[j+1]) j--;
             }
 
-            if(i<nums.size() && j<nums.size() && nums[i]+nums[j]+nums[k]>0) j--;
-            else if(i<nums.size() && j<nums.size() && nums[i]+nums[j]+nums[k]<0)i++;
+            else if(nums[i]+nums[j]+nums[k]>0) j--;
+            else i++;
            }
         }  
         return ans;
