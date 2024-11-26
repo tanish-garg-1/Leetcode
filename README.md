@@ -33,6 +33,7 @@
 | [0053-maximum-subarray](https://github.com/tanish-garg-1/Leetcode/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/tanish-garg-1/Leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/tanish-garg-1/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [1013-fibonacci-number](https://github.com/tanish-garg-1/Leetcode/tree/master/1013-fibonacci-number) |
 | [1196-filling-bookcase-shelves](https://github.com/tanish-garg-1/Leetcode/tree/master/1196-filling-bookcase-shelves) |
 ## Math
 |  |
@@ -40,6 +41,7 @@
 | [0002-add-two-numbers](https://github.com/tanish-garg-1/Leetcode/tree/master/0002-add-two-numbers) |
 | [0048-rotate-image](https://github.com/tanish-garg-1/Leetcode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/tanish-garg-1/Leetcode/tree/master/0050-powx-n) |
+| [1013-fibonacci-number](https://github.com/tanish-garg-1/Leetcode/tree/master/1013-fibonacci-number) |
 ## Matrix
 |  |
 | ------- |
@@ -100,6 +102,7 @@
 | [0050-powx-n](https://github.com/tanish-garg-1/Leetcode/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/tanish-garg-1/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/tanish-garg-1/Leetcode/tree/master/0234-palindrome-linked-list) |
+| [1013-fibonacci-number](https://github.com/tanish-garg-1/Leetcode/tree/master/1013-fibonacci-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -129,4 +132,8 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/tanish-garg-1/Leetcode/tree/master/0042-trapping-rain-water) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/tanish-garg-1/Leetcode/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
