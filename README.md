@@ -13,6 +13,7 @@
 | [0056-merge-intervals](https://github.com/tanish-garg-1/Leetcode/tree/master/0056-merge-intervals) |
 | [0074-search-a-2d-matrix](https://github.com/tanish-garg-1/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0088-merge-sorted-array](https://github.com/tanish-garg-1/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0090-subsets-ii](https://github.com/tanish-garg-1/Leetcode/tree/master/0090-subsets-ii) |
 | [0118-pascals-triangle](https://github.com/tanish-garg-1/Leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/tanish-garg-1/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/tanish-garg-1/Leetcode/tree/master/0169-majority-element) |
@@ -81,6 +82,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0090-subsets-ii](https://github.com/tanish-garg-1/Leetcode/tree/master/0090-subsets-ii) |
 | [0287-find-the-duplicate-number](https://github.com/tanish-garg-1/Leetcode/tree/master/0287-find-the-duplicate-number) |
 ## Linked List
 |  |
@@ -142,4 +144,8 @@
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/tanish-garg-1/Leetcode/tree/master/0062-unique-paths) |
+## Backtracking
+|  |
+| ------- |
+| [0090-subsets-ii](https://github.com/tanish-garg-1/Leetcode/tree/master/0090-subsets-ii) |
 <!---LeetCode Topics End-->
