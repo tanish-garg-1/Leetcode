@@ -1,21 +1,25 @@
 class Solution {
 public:
     int maximumPopulation(vector<vector<int>>& logs) {
-        
-        vector<int>v(2051,0);
-        
-        for(auto a:logs){
-            v[a[0]]+=1;
-            v[a[1]]-=1;
+        map<int,int> mymap;
+        for(int i=0;i<logs.size();i++){
+            mymap[logs[i][0]]++;
+            mymap[logs[i][1]]--;
         }
-        for(int i=1;i<2051;i++){
-            v[i]+=v[i-1];
+        vector<pair<int,int>> sol;
+        for(auto it=mymap.begin();it!=mymap.end();it++){
+            sol.push_back(make_pair(it->first,it->second));
         }
-        
-        int a=INT_MIN,ans=0;
-        for(int i=0;i<2051;i++){
-            if(a<v[i])a=v[i],ans=i;
+        sort(sol.begin(),sol.end());
+        int year=(sol[0]).first;
+        int ans=(sol[0]).second;
+        for(int i=1;i<sol.size();i++){
+            (sol[i]).second=(sol[i]).second+(sol[i-1]).second;
+            if(ans<(sol[i-1]).second){
+                ans=(sol[i-1]).second;
+                year=(sol[i-1]).first;
+            }
         }
-        return ans;
+        return year;
     }
 };
