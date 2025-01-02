@@ -25,6 +25,7 @@
 | [0525-contiguous-array](https://github.com/tanish-garg-1/Leetcode/tree/master/0525-contiguous-array) |
 | [1196-filling-bookcase-shelves](https://github.com/tanish-garg-1/Leetcode/tree/master/1196-filling-bookcase-shelves) |
 | [1755-defuse-the-bomb](https://github.com/tanish-garg-1/Leetcode/tree/master/1755-defuse-the-bomb) |
+| [1983-maximum-population-year](https://github.com/tanish-garg-1/Leetcode/tree/master/1983-maximum-population-year) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -125,6 +126,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/tanish-garg-1/Leetcode/tree/master/0169-majority-element) |
+| [1983-maximum-population-year](https://github.com/tanish-garg-1/Leetcode/tree/master/1983-maximum-population-year) |
 ## Stack
 |  |
 | ------- |
@@ -160,4 +162,5 @@
 |  |
 | ------- |
 | [0525-contiguous-array](https://github.com/tanish-garg-1/Leetcode/tree/master/0525-contiguous-array) |
+| [1983-maximum-population-year](https://github.com/tanish-garg-1/Leetcode/tree/master/1983-maximum-population-year) |
 <!---LeetCode Topics End-->
