@@ -16,6 +16,7 @@
 | [0053-maximum-subarray](https://github.com/tanish-garg-1/Leetcode/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/tanish-garg-1/Leetcode/tree/master/0056-merge-intervals) |
 | [0074-search-a-2d-matrix](https://github.com/tanish-garg-1/Leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0078-subsets](https://github.com/tanish-garg-1/Leetcode/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/tanish-garg-1/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/tanish-garg-1/Leetcode/tree/master/0090-subsets-ii) |
 | [0118-pascals-triangle](https://github.com/tanish-garg-1/Leetcode/tree/master/0118-pascals-triangle) |
@@ -91,6 +92,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/tanish-garg-1/Leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/tanish-garg-1/Leetcode/tree/master/0090-subsets-ii) |
 | [0287-find-the-duplicate-number](https://github.com/tanish-garg-1/Leetcode/tree/master/0287-find-the-duplicate-number) |
 ## Linked List
@@ -165,6 +167,7 @@
 | [0040-combination-sum-ii](https://github.com/tanish-garg-1/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/tanish-garg-1/Leetcode/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/tanish-garg-1/Leetcode/tree/master/0051-n-queens) |
+| [0078-subsets](https://github.com/tanish-garg-1/Leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/tanish-garg-1/Leetcode/tree/master/0090-subsets-ii) |
 ## Prefix Sum
 |  |
