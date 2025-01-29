@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/tanish-garg-1/Leetcode/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/tanish-garg-1/Leetcode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/tanish-garg-1/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0033-search-in-rotated-sorted-array](https://github.com/tanish-garg-1/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0037-sudoku-solver](https://github.com/tanish-garg-1/Leetcode/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/tanish-garg-1/Leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/tanish-garg-1/Leetcode/tree/master/0040-combination-sum-ii) |
@@ -90,6 +91,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/tanish-garg-1/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/tanish-garg-1/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0287-find-the-duplicate-number](https://github.com/tanish-garg-1/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/tanish-garg-1/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
