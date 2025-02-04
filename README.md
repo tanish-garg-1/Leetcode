@@ -41,6 +41,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/tanish-garg-1/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/tanish-garg-1/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/tanish-garg-1/Leetcode/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/tanish-garg-1/Leetcode/tree/master/0062-unique-paths) |
@@ -75,6 +76,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/tanish-garg-1/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/tanish-garg-1/Leetcode/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/tanish-garg-1/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/tanish-garg-1/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -187,5 +189,6 @@
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/tanish-garg-1/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0151-reverse-words-in-a-string](https://github.com/tanish-garg-1/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 <!---LeetCode Topics End-->
