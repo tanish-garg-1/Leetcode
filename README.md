@@ -29,6 +29,7 @@
 | [0485-max-consecutive-ones](https://github.com/tanish-garg-1/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0525-contiguous-array](https://github.com/tanish-garg-1/Leetcode/tree/master/0525-contiguous-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/tanish-garg-1/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
+| [0542-01-matrix](https://github.com/tanish-garg-1/Leetcode/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/tanish-garg-1/Leetcode/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/tanish-garg-1/Leetcode/tree/master/1036-rotting-oranges) |
 | [1196-filling-bookcase-shelves](https://github.com/tanish-garg-1/Leetcode/tree/master/1196-filling-bookcase-shelves) |
@@ -50,6 +51,7 @@
 | [0118-pascals-triangle](https://github.com/tanish-garg-1/Leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/tanish-garg-1/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/tanish-garg-1/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0542-01-matrix](https://github.com/tanish-garg-1/Leetcode/tree/master/0542-01-matrix) |
 | [1013-fibonacci-number](https://github.com/tanish-garg-1/Leetcode/tree/master/1013-fibonacci-number) |
 | [1196-filling-bookcase-shelves](https://github.com/tanish-garg-1/Leetcode/tree/master/1196-filling-bookcase-shelves) |
 ## Math
@@ -69,6 +71,7 @@
 | [0037-sudoku-solver](https://github.com/tanish-garg-1/Leetcode/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/tanish-garg-1/Leetcode/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/tanish-garg-1/Leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0542-01-matrix](https://github.com/tanish-garg-1/Leetcode/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/tanish-garg-1/Leetcode/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/tanish-garg-1/Leetcode/tree/master/1036-rotting-oranges) |
 ## Sorting
@@ -272,6 +275,7 @@
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/tanish-garg-1/Leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/tanish-garg-1/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/tanish-garg-1/Leetcode/tree/master/0199-binary-tree-right-side-view) |
+| [0542-01-matrix](https://github.com/tanish-garg-1/Leetcode/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/tanish-garg-1/Leetcode/tree/master/0733-flood-fill) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/tanish-garg-1/Leetcode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1036-rotting-oranges](https://github.com/tanish-garg-1/Leetcode/tree/master/1036-rotting-oranges) |
