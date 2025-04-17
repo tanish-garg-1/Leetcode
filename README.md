@@ -147,6 +147,7 @@
 | [0001-two-sum](https://github.com/tanish-garg-1/Leetcode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/tanish-garg-1/Leetcode/tree/master/0013-roman-to-integer) |
 | [0037-sudoku-solver](https://github.com/tanish-garg-1/Leetcode/tree/master/0037-sudoku-solver) |
+| [0127-word-ladder](https://github.com/tanish-garg-1/Leetcode/tree/master/0127-word-ladder) |
 | [0141-linked-list-cycle](https://github.com/tanish-garg-1/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/tanish-garg-1/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/tanish-garg-1/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
@@ -210,6 +211,7 @@
 | [0008-string-to-integer-atoi](https://github.com/tanish-garg-1/Leetcode/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/tanish-garg-1/Leetcode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/tanish-garg-1/Leetcode/tree/master/0014-longest-common-prefix) |
+| [0127-word-ladder](https://github.com/tanish-garg-1/Leetcode/tree/master/0127-word-ladder) |
 | [0151-reverse-words-in-a-string](https://github.com/tanish-garg-1/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 ## Trie
 |  |
@@ -277,6 +279,7 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/tanish-garg-1/Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/tanish-garg-1/Leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/tanish-garg-1/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0127-word-ladder](https://github.com/tanish-garg-1/Leetcode/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/tanish-garg-1/Leetcode/tree/master/0130-surrounded-regions) |
 | [0199-binary-tree-right-side-view](https://github.com/tanish-garg-1/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0542-01-matrix](https://github.com/tanish-garg-1/Leetcode/tree/master/0542-01-matrix) |
