@@ -52,6 +52,7 @@
 | [0118-pascals-triangle](https://github.com/tanish-garg-1/Leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/tanish-garg-1/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/tanish-garg-1/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0131-palindrome-partitioning](https://github.com/tanish-garg-1/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0542-01-matrix](https://github.com/tanish-garg-1/Leetcode/tree/master/0542-01-matrix) |
 | [1013-fibonacci-number](https://github.com/tanish-garg-1/Leetcode/tree/master/1013-fibonacci-number) |
 | [1196-filling-bookcase-shelves](https://github.com/tanish-garg-1/Leetcode/tree/master/1196-filling-bookcase-shelves) |
@@ -198,6 +199,7 @@
 | [0051-n-queens](https://github.com/tanish-garg-1/Leetcode/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/tanish-garg-1/Leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/tanish-garg-1/Leetcode/tree/master/0090-subsets-ii) |
+| [0131-palindrome-partitioning](https://github.com/tanish-garg-1/Leetcode/tree/master/0131-palindrome-partitioning) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -212,6 +214,7 @@
 | [0013-roman-to-integer](https://github.com/tanish-garg-1/Leetcode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/tanish-garg-1/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0127-word-ladder](https://github.com/tanish-garg-1/Leetcode/tree/master/0127-word-ladder) |
+| [0131-palindrome-partitioning](https://github.com/tanish-garg-1/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/tanish-garg-1/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 ## Trie
 |  |
