@@ -1,52 +1,37 @@
 class Solution {
-    void put_in_sol(vector<vector<int>> arr,vector<vector<string>> &sol,int n){
-        vector<string> temp;
+    bool is_safe(int row,int col,int n,vector<string>& temp){
         for(int i=0;i<n;i++){
-            string s="";
-            for(int j=0;j<n;j++){
-                if(arr[i][j]==1) s=s+'Q';
-                else s=s+'.';
-            }
-            temp.push_back(s);
+            if(temp[row][i]=='Q' || temp[i][col]=='Q') return false;
         }
-        sol.push_back(temp);
-    }
 
-    bool place_queen(int rows,int cols,vector<vector<int>> arr,int n){
-        for(int i=0;i<cols;i++){
-            if(arr[rows][i]==1) return false;
+        for (int x = row - 1, y = col - 1; x >= 0 && y >= 0; x--, y--) {
+            if (temp[x][y] == 'Q') return false;
         }
-        for(int i=0;i<rows;i++){
-            if(arr[i][cols]==1) return false;
-        }
-        for(int i=rows-1,j=cols-1;i>=0 && j>=0;i--,j--){
-            if(arr[i][j]==1) return false;
-        }
-        for(int i=rows-1,j=cols+1;i>=0 && j<n;i--,j++){
-            if(arr[i][j]==1) return false;
+
+        for (int x = row - 1, y = col + 1; x >= 0 && y < n; x--, y++) {
+            if (temp[x][y] == 'Q') return false;
         }
         return true;
     }
-
-    bool solve(int i,vector<vector<int>> arr,vector<vector<string>> &sol,int n){
-        if(i==n){
-            put_in_sol(arr,sol,n);
-            return true;
-            }
-        for(int j=0;j<n;j++){
-            if(place_queen(i,j,arr,n)==true){
-                arr[i][j]=1;
-                (solve(i+1,arr,sol,n));
-                arr[i][j]=0;
+    void find_sol(int row,int n,vector<string>& temp,vector<vector<string>>& sol){
+        if(row==n){
+            sol.push_back(temp);
+            return;
+        }
+        for(int col=0;col<n;col++){
+            if(is_safe(row,col,n,temp)){
+                temp[row][col]='Q';
+                find_sol(row+1,n,temp,sol);
+                temp[row][col]='.';
             }
         }
-        return false;
+        return;
     }
 public:
     vector<vector<string>> solveNQueens(int n) {
         vector<vector<string>> sol;
-        vector<vector<int>> arr(n, vector<int>(n, 0));
-        solve(0,arr,sol,n);
+        vector<string> temp(n, string(n, '.'));
+        find_sol(0,n,temp,sol);
         return sol;
     }
 };
