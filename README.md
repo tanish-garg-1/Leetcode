@@ -17,6 +17,7 @@
 | [0051-n-queens](https://github.com/tanish-garg-1/Leetcode/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/tanish-garg-1/Leetcode/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/tanish-garg-1/Leetcode/tree/master/0056-merge-intervals) |
+| [0064-minimum-path-sum](https://github.com/tanish-garg-1/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/tanish-garg-1/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/tanish-garg-1/Leetcode/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/tanish-garg-1/Leetcode/tree/master/0088-merge-sorted-array) |
@@ -49,6 +50,7 @@
 | [0042-trapping-rain-water](https://github.com/tanish-garg-1/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/tanish-garg-1/Leetcode/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/tanish-garg-1/Leetcode/tree/master/0062-unique-paths) |
+| [0064-minimum-path-sum](https://github.com/tanish-garg-1/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/tanish-garg-1/Leetcode/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/tanish-garg-1/Leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/tanish-garg-1/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -74,6 +76,7 @@
 | ------- |
 | [0037-sudoku-solver](https://github.com/tanish-garg-1/Leetcode/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/tanish-garg-1/Leetcode/tree/master/0048-rotate-image) |
+| [0064-minimum-path-sum](https://github.com/tanish-garg-1/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/tanish-garg-1/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0130-surrounded-regions](https://github.com/tanish-garg-1/Leetcode/tree/master/0130-surrounded-regions) |
 | [0542-01-matrix](https://github.com/tanish-garg-1/Leetcode/tree/master/0542-01-matrix) |
