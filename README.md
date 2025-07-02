@@ -32,6 +32,7 @@
 | [0416-partition-equal-subset-sum](https://github.com/tanish-garg-1/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0455-assign-cookies](https://github.com/tanish-garg-1/Leetcode/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/tanish-garg-1/Leetcode/tree/master/0485-max-consecutive-ones) |
+| [0494-target-sum](https://github.com/tanish-garg-1/Leetcode/tree/master/0494-target-sum) |
 | [0525-contiguous-array](https://github.com/tanish-garg-1/Leetcode/tree/master/0525-contiguous-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/tanish-garg-1/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0542-01-matrix](https://github.com/tanish-garg-1/Leetcode/tree/master/0542-01-matrix) |
@@ -62,6 +63,7 @@
 | [0131-palindrome-partitioning](https://github.com/tanish-garg-1/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0322-coin-change](https://github.com/tanish-garg-1/Leetcode/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/tanish-garg-1/Leetcode/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/tanish-garg-1/Leetcode/tree/master/0494-target-sum) |
 | [0542-01-matrix](https://github.com/tanish-garg-1/Leetcode/tree/master/0542-01-matrix) |
 | [1013-fibonacci-number](https://github.com/tanish-garg-1/Leetcode/tree/master/1013-fibonacci-number) |
 | [1196-filling-bookcase-shelves](https://github.com/tanish-garg-1/Leetcode/tree/master/1196-filling-bookcase-shelves) |
@@ -212,6 +214,7 @@
 | [0078-subsets](https://github.com/tanish-garg-1/Leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/tanish-garg-1/Leetcode/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/tanish-garg-1/Leetcode/tree/master/0131-palindrome-partitioning) |
+| [0494-target-sum](https://github.com/tanish-garg-1/Leetcode/tree/master/0494-target-sum) |
 ## Prefix Sum
 |  |
 | ------- |
