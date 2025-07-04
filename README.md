@@ -66,6 +66,7 @@
 | [0494-target-sum](https://github.com/tanish-garg-1/Leetcode/tree/master/0494-target-sum) |
 | [0542-01-matrix](https://github.com/tanish-garg-1/Leetcode/tree/master/0542-01-matrix) |
 | [1013-fibonacci-number](https://github.com/tanish-garg-1/Leetcode/tree/master/1013-fibonacci-number) |
+| [1170-shortest-common-supersequence](https://github.com/tanish-garg-1/Leetcode/tree/master/1170-shortest-common-supersequence) |
 | [1196-filling-bookcase-shelves](https://github.com/tanish-garg-1/Leetcode/tree/master/1196-filling-bookcase-shelves) |
 | [1250-longest-common-subsequence](https://github.com/tanish-garg-1/Leetcode/tree/master/1250-longest-common-subsequence) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/tanish-garg-1/Leetcode/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
@@ -233,6 +234,7 @@
 | [0127-word-ladder](https://github.com/tanish-garg-1/Leetcode/tree/master/0127-word-ladder) |
 | [0131-palindrome-partitioning](https://github.com/tanish-garg-1/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/tanish-garg-1/Leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [1170-shortest-common-supersequence](https://github.com/tanish-garg-1/Leetcode/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/tanish-garg-1/Leetcode/tree/master/1250-longest-common-subsequence) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/tanish-garg-1/Leetcode/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 ## Trie
