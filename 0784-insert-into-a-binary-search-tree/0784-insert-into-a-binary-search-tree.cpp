@@ -10,19 +10,18 @@
  * };
  */
 class Solution {
-    void functionn(TreeNode* root, int data){
-        if(root==NULL){
-            root=new TreeNode(data); 
-            return;
-        }
-        if(data>root->val) insertIntoBST(root->right,data);
-        else insertIntoBST(root->left,data);
-    }
 public:
     TreeNode* insertIntoBST(TreeNode* root, int data) {
-        if(root==NULL) return new TreeNode(data); 
-        if(data>root->val) root->right=insertIntoBST(root->right,data);
-        else root->left=insertIntoBST(root->left,data);
-        return root;
+        TreeNode* temp=new TreeNode(data);
+        // temp->val=data;
+        TreeNode* head=root;
+        while(root){
+            if(root->val > data && root->left==NULL) {root->left=temp;break;}
+            else if(root->val < data && root->right==NULL) {root->right=temp;break;}
+            if(root->val > data) root=root->left;
+            else if(root->val < data)root=root->right;
+        }
+        if(head==NULL) return temp;
+        return head;
     }
 };
