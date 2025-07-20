@@ -40,6 +40,7 @@
 | [0542-01-matrix](https://github.com/tanish-garg-1/Leetcode/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/tanish-garg-1/Leetcode/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/tanish-garg-1/Leetcode/tree/master/1036-rotting-oranges) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/tanish-garg-1/Leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1196-filling-bookcase-shelves](https://github.com/tanish-garg-1/Leetcode/tree/master/1196-filling-bookcase-shelves) |
 | [1370-count-number-of-nice-subarrays](https://github.com/tanish-garg-1/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1755-defuse-the-bomb](https://github.com/tanish-garg-1/Leetcode/tree/master/1755-defuse-the-bomb) |
@@ -190,6 +191,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/tanish-garg-1/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/tanish-garg-1/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/tanish-garg-1/Leetcode/tree/master/0234-palindrome-linked-list) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/tanish-garg-1/Leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 ## Sliding Window
 |  |
 | ------- |
@@ -203,6 +205,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/tanish-garg-1/Leetcode/tree/master/0042-trapping-rain-water) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/tanish-garg-1/Leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 ## Memoization
 |  |
 | ------- |
@@ -270,6 +273,7 @@
 | [0783-search-in-a-binary-search-tree](https://github.com/tanish-garg-1/Leetcode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/tanish-garg-1/Leetcode/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/tanish-garg-1/Leetcode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/tanish-garg-1/Leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -316,6 +320,7 @@
 | [0783-search-in-a-binary-search-tree](https://github.com/tanish-garg-1/Leetcode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/tanish-garg-1/Leetcode/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/tanish-garg-1/Leetcode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/tanish-garg-1/Leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -344,6 +349,7 @@
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/tanish-garg-1/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/tanish-garg-1/Leetcode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/tanish-garg-1/Leetcode/tree/master/0784-insert-into-a-binary-search-tree) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/tanish-garg-1/Leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 ## Union Find
 |  |
 | ------- |
