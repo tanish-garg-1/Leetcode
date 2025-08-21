@@ -11,12 +11,32 @@
  */
 class Solution {
 public:
-vector<int>arr;
     vector<int> inorderTraversal(TreeNode* root) {
-        if(root==NULL) return arr;
-            inorderTraversal(root->left);
-            arr.push_back(root->val);
-            inorderTraversal(root->right);
-            return arr;
+        TreeNode* curr=root;
+        vector<int> sol;
+        while(curr!=NULL){
+            if(curr->left ==NULL){
+                sol.push_back(curr->val);
+                curr=curr->right;
+            }
+            else{
+                TreeNode* temp=curr;
+                temp=temp->left;
+                while(temp->right && temp->right!=curr){
+                    temp=temp->right;
+                }
+
+                if(temp->right==NULL){
+                    temp->right=curr;
+                    curr=curr->left;
+                }
+                else{
+                    temp->right=NULL;
+                    sol.push_back(curr->val);
+                    curr=curr->right;
+                }
+            }
+        }
+        return sol;
     }
 };
