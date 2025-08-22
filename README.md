@@ -31,6 +31,7 @@
 | [0287-find-the-duplicate-number](https://github.com/tanish-garg-1/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/tanish-garg-1/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/tanish-garg-1/Leetcode/tree/master/0322-coin-change) |
+| [0347-top-k-frequent-elements](https://github.com/tanish-garg-1/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0416-partition-equal-subset-sum](https://github.com/tanish-garg-1/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0455-assign-cookies](https://github.com/tanish-garg-1/Leetcode/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/tanish-garg-1/Leetcode/tree/master/0485-max-consecutive-ones) |
@@ -54,6 +55,7 @@
 | ------- |
 | [0053-maximum-subarray](https://github.com/tanish-garg-1/Leetcode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/tanish-garg-1/Leetcode/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/tanish-garg-1/Leetcode/tree/master/0347-top-k-frequent-elements) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -109,6 +111,7 @@
 | [0056-merge-intervals](https://github.com/tanish-garg-1/Leetcode/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/tanish-garg-1/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/tanish-garg-1/Leetcode/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/tanish-garg-1/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0455-assign-cookies](https://github.com/tanish-garg-1/Leetcode/tree/master/0455-assign-cookies) |
 ## Two Pointers
 |  |
@@ -181,6 +184,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/tanish-garg-1/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/tanish-garg-1/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/tanish-garg-1/Leetcode/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/tanish-garg-1/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/tanish-garg-1/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0525-contiguous-array](https://github.com/tanish-garg-1/Leetcode/tree/master/0525-contiguous-array) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/tanish-garg-1/Leetcode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
@@ -193,6 +197,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/tanish-garg-1/Leetcode/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/tanish-garg-1/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [1034-subarrays-with-k-different-integers](https://github.com/tanish-garg-1/Leetcode/tree/master/1034-subarrays-with-k-different-integers) |
 | [1983-maximum-population-year](https://github.com/tanish-garg-1/Leetcode/tree/master/1983-maximum-population-year) |
 ## Stack
@@ -391,4 +396,16 @@
 | ------- |
 | [0207-course-schedule](https://github.com/tanish-garg-1/Leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/tanish-garg-1/Leetcode/tree/master/0210-course-schedule-ii) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/tanish-garg-1/Leetcode/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/tanish-garg-1/Leetcode/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/tanish-garg-1/Leetcode/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
