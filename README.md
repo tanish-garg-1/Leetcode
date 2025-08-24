@@ -203,6 +203,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/tanish-garg-1/Leetcode/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/tanish-garg-1/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/tanish-garg-1/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/tanish-garg-1/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
@@ -266,6 +267,7 @@
 | [0008-string-to-integer-atoi](https://github.com/tanish-garg-1/Leetcode/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/tanish-garg-1/Leetcode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/tanish-garg-1/Leetcode/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/tanish-garg-1/Leetcode/tree/master/0020-valid-parentheses) |
 | [0127-word-ladder](https://github.com/tanish-garg-1/Leetcode/tree/master/0127-word-ladder) |
 | [0131-palindrome-partitioning](https://github.com/tanish-garg-1/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/tanish-garg-1/Leetcode/tree/master/0151-reverse-words-in-a-string) |
