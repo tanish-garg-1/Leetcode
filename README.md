@@ -213,6 +213,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/tanish-garg-1/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/tanish-garg-1/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/tanish-garg-1/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0155-min-stack](https://github.com/tanish-garg-1/Leetcode/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/tanish-garg-1/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/tanish-garg-1/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/tanish-garg-1/Leetcode/tree/master/0496-next-greater-element-i) |
@@ -426,6 +427,7 @@
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/tanish-garg-1/Leetcode/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/tanish-garg-1/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0937-online-stock-span](https://github.com/tanish-garg-1/Leetcode/tree/master/0937-online-stock-span) |
 ## Queue
