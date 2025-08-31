@@ -29,6 +29,7 @@
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/tanish-garg-1/Leetcode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0130-surrounded-regions](https://github.com/tanish-garg-1/Leetcode/tree/master/0130-surrounded-regions) |
 | [0169-majority-element](https://github.com/tanish-garg-1/Leetcode/tree/master/0169-majority-element) |
+| [0239-sliding-window-maximum](https://github.com/tanish-garg-1/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0287-find-the-duplicate-number](https://github.com/tanish-garg-1/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/tanish-garg-1/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/tanish-garg-1/Leetcode/tree/master/0322-coin-change) |
@@ -220,6 +221,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/tanish-garg-1/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/tanish-garg-1/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0940-fruit-into-baskets](https://github.com/tanish-garg-1/Leetcode/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/tanish-garg-1/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
@@ -411,6 +413,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/tanish-garg-1/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/tanish-garg-1/Leetcode/tree/master/0347-top-k-frequent-elements) |
 ## Bucket Sort
 |  |
@@ -429,8 +432,13 @@
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/tanish-garg-1/Leetcode/tree/master/0225-implement-stack-using-queues) |
+| [0239-sliding-window-maximum](https://github.com/tanish-garg-1/Leetcode/tree/master/0239-sliding-window-maximum) |
 ## Data Stream
 |  |
 | ------- |
 | [0937-online-stock-span](https://github.com/tanish-garg-1/Leetcode/tree/master/0937-online-stock-span) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/tanish-garg-1/Leetcode/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
