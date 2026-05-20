@@ -50,6 +50,7 @@
 | [1046-max-consecutive-ones-iii](https://github.com/tanish-garg-1/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/tanish-garg-1/Leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1196-filling-bookcase-shelves](https://github.com/tanish-garg-1/Leetcode/tree/master/1196-filling-bookcase-shelves) |
+| [1306-jump-game-iii](https://github.com/tanish-garg-1/Leetcode/tree/master/1306-jump-game-iii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/tanish-garg-1/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1755-defuse-the-bomb](https://github.com/tanish-garg-1/Leetcode/tree/master/1755-defuse-the-bomb) |
 | [1983-maximum-population-year](https://github.com/tanish-garg-1/Leetcode/tree/master/1983-maximum-population-year) |
@@ -348,6 +349,7 @@
 | [0733-flood-fill](https://github.com/tanish-garg-1/Leetcode/tree/master/0733-flood-fill) |
 | [0801-is-graph-bipartite](https://github.com/tanish-garg-1/Leetcode/tree/master/0801-is-graph-bipartite) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/tanish-garg-1/Leetcode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
+| [1306-jump-game-iii](https://github.com/tanish-garg-1/Leetcode/tree/master/1306-jump-game-iii) |
 ## Binary Tree
 |  |
 | ------- |
@@ -393,6 +395,7 @@
 | [0801-is-graph-bipartite](https://github.com/tanish-garg-1/Leetcode/tree/master/0801-is-graph-bipartite) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/tanish-garg-1/Leetcode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1036-rotting-oranges](https://github.com/tanish-garg-1/Leetcode/tree/master/1036-rotting-oranges) |
+| [1306-jump-game-iii](https://github.com/tanish-garg-1/Leetcode/tree/master/1306-jump-game-iii) |
 ## Binary Search Tree
 |  |
 | ------- |
