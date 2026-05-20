@@ -54,6 +54,7 @@
 | [1755-defuse-the-bomb](https://github.com/tanish-garg-1/Leetcode/tree/master/1755-defuse-the-bomb) |
 | [1983-maximum-population-year](https://github.com/tanish-garg-1/Leetcode/tree/master/1983-maximum-population-year) |
 | [2540-minimum-common-value](https://github.com/tanish-garg-1/Leetcode/tree/master/2540-minimum-common-value) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/tanish-garg-1/Leetcode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -154,6 +155,7 @@
 | [0090-subsets-ii](https://github.com/tanish-garg-1/Leetcode/tree/master/0090-subsets-ii) |
 | [0222-count-complete-tree-nodes](https://github.com/tanish-garg-1/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0287-find-the-duplicate-number](https://github.com/tanish-garg-1/Leetcode/tree/master/0287-find-the-duplicate-number) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/tanish-garg-1/Leetcode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 ## Linked List
 |  |
 | ------- |
@@ -201,6 +203,7 @@
 | [1370-count-number-of-nice-subarrays](https://github.com/tanish-garg-1/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/tanish-garg-1/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2540-minimum-common-value](https://github.com/tanish-garg-1/Leetcode/tree/master/2540-minimum-common-value) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/tanish-garg-1/Leetcode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 ## Counting
 |  |
 | ------- |
