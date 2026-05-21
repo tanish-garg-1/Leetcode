@@ -56,6 +56,7 @@
 | [1983-maximum-population-year](https://github.com/tanish-garg-1/Leetcode/tree/master/1983-maximum-population-year) |
 | [2540-minimum-common-value](https://github.com/tanish-garg-1/Leetcode/tree/master/2540-minimum-common-value) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/tanish-garg-1/Leetcode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/tanish-garg-1/Leetcode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -205,6 +206,7 @@
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/tanish-garg-1/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2540-minimum-common-value](https://github.com/tanish-garg-1/Leetcode/tree/master/2540-minimum-common-value) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/tanish-garg-1/Leetcode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/tanish-garg-1/Leetcode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 ## Counting
 |  |
 | ------- |
@@ -296,10 +298,12 @@
 | [1250-longest-common-subsequence](https://github.com/tanish-garg-1/Leetcode/tree/master/1250-longest-common-subsequence) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/tanish-garg-1/Leetcode/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/tanish-garg-1/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/tanish-garg-1/Leetcode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 ## Trie
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/tanish-garg-1/Leetcode/tree/master/0014-longest-common-prefix) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/tanish-garg-1/Leetcode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 ## Tree
 |  |
 | ------- |
