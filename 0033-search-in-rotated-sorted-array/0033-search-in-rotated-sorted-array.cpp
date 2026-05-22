@@ -1,28 +1,28 @@
 class Solution {
-public:
-    int search(vector<int>& nums, int target) {
-        int n=nums.size();
-        int low=0; int high=n-1;
-        while(low<high){
-            int mid=low+(high-low)/2;
-            if(nums[mid]>nums[high]) low=mid+1;
-            else high=mid;
-        }
-        int pivot =low;
+    int find_index(int begin,int end,int target,vector<int>& nums){
+        if(begin>end) return -1;
+        int mid=(begin+end)/2;
+        if(nums[mid]==target) return mid;
 
-        if(target>=nums[pivot] && target<=nums[n-1]){
-            low=pivot;high=n-1;
+        if(nums[begin]<=nums[mid]){
+            if(target>=nums[begin] && target<=nums[mid]){
+                return find_index(begin,mid-1,target,nums);
+            }
+            else return find_index(mid+1,end,target,nums);
+             
         }
-        else{
-            low=0;high=pivot-1;
-        }
-        cout<<low<<" "<<high;
-        while(low<=high){
-            int mid=low+(high-low)/2;
-            if(target==nums[mid]) return mid;
-            else if(target<nums[mid]) high=mid-1;
-            else low=mid+1;
+
+        if(nums[mid+1]<=nums[end]){
+            if(target>=nums[mid+1] && target<=nums[end]){
+                return find_index(mid+1,end,target,nums);
+            }
+            else return find_index(begin,mid-1,target,nums);
         }
         return -1;
+    }
+public:
+    int search(vector<int>& nums, int target) {
+        int begin=0,end=nums.size()-1;
+        return find_index(begin,end,target,nums);
     }
 };
