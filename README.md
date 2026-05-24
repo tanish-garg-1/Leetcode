@@ -51,6 +51,7 @@
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/tanish-garg-1/Leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1196-filling-bookcase-shelves](https://github.com/tanish-garg-1/Leetcode/tree/master/1196-filling-bookcase-shelves) |
 | [1306-jump-game-iii](https://github.com/tanish-garg-1/Leetcode/tree/master/1306-jump-game-iii) |
+| [1340-jump-game-v](https://github.com/tanish-garg-1/Leetcode/tree/master/1340-jump-game-v) |
 | [1370-count-number-of-nice-subarrays](https://github.com/tanish-garg-1/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/tanish-garg-1/Leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1755-defuse-the-bomb](https://github.com/tanish-garg-1/Leetcode/tree/master/1755-defuse-the-bomb) |
@@ -88,6 +89,7 @@
 | [1170-shortest-common-supersequence](https://github.com/tanish-garg-1/Leetcode/tree/master/1170-shortest-common-supersequence) |
 | [1196-filling-bookcase-shelves](https://github.com/tanish-garg-1/Leetcode/tree/master/1196-filling-bookcase-shelves) |
 | [1250-longest-common-subsequence](https://github.com/tanish-garg-1/Leetcode/tree/master/1250-longest-common-subsequence) |
+| [1340-jump-game-v](https://github.com/tanish-garg-1/Leetcode/tree/master/1340-jump-game-v) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/tanish-garg-1/Leetcode/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 ## Math
 |  |
@@ -121,6 +123,7 @@
 | [0169-majority-element](https://github.com/tanish-garg-1/Leetcode/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/tanish-garg-1/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0455-assign-cookies](https://github.com/tanish-garg-1/Leetcode/tree/master/0455-assign-cookies) |
+| [1340-jump-game-v](https://github.com/tanish-garg-1/Leetcode/tree/master/1340-jump-game-v) |
 ## Two Pointers
 |  |
 | ------- |
