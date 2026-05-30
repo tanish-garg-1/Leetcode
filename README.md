@@ -60,6 +60,7 @@
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/tanish-garg-1/Leetcode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/tanish-garg-1/Leetcode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3093-longest-common-suffix-queries](https://github.com/tanish-garg-1/Leetcode/tree/master/3093-longest-common-suffix-queries) |
+| [3161-block-placement-queries](https://github.com/tanish-garg-1/Leetcode/tree/master/3161-block-placement-queries) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -155,6 +156,7 @@
 | [0540-single-element-in-a-sorted-array](https://github.com/tanish-garg-1/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [1046-max-consecutive-ones-iii](https://github.com/tanish-garg-1/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [2540-minimum-common-value](https://github.com/tanish-garg-1/Leetcode/tree/master/2540-minimum-common-value) |
+| [3161-block-placement-queries](https://github.com/tanish-garg-1/Leetcode/tree/master/3161-block-placement-queries) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -466,4 +468,12 @@
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/tanish-garg-1/Leetcode/tree/master/0239-sliding-window-maximum) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [3161-block-placement-queries](https://github.com/tanish-garg-1/Leetcode/tree/master/3161-block-placement-queries) |
+## Segment Tree
+|  |
+| ------- |
+| [3161-block-placement-queries](https://github.com/tanish-garg-1/Leetcode/tree/master/3161-block-placement-queries) |
 <!---LeetCode Topics End-->
