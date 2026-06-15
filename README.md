@@ -144,6 +144,7 @@
 | [0287-find-the-duplicate-number](https://github.com/tanish-garg-1/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0455-assign-cookies](https://github.com/tanish-garg-1/Leetcode/tree/master/0455-assign-cookies) |
 | [0908-middle-of-the-linked-list](https://github.com/tanish-garg-1/Leetcode/tree/master/0908-middle-of-the-linked-list) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/tanish-garg-1/Leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2540-minimum-common-value](https://github.com/tanish-garg-1/Leetcode/tree/master/2540-minimum-common-value) |
 ## Binary Search
 |  |
@@ -180,6 +181,7 @@
 | [0234-palindrome-linked-list](https://github.com/tanish-garg-1/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/tanish-garg-1/Leetcode/tree/master/0237-delete-node-in-a-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/tanish-garg-1/Leetcode/tree/master/0908-middle-of-the-linked-list) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/tanish-garg-1/Leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Recursion
 |  |
 | ------- |
@@ -237,6 +239,7 @@
 | [0496-next-greater-element-i](https://github.com/tanish-garg-1/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0937-online-stock-span](https://github.com/tanish-garg-1/Leetcode/tree/master/0937-online-stock-span) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/tanish-garg-1/Leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/tanish-garg-1/Leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Sliding Window
 |  |
 | ------- |
