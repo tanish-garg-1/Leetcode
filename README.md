@@ -314,6 +314,7 @@
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/tanish-garg-1/Leetcode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3093-longest-common-suffix-queries](https://github.com/tanish-garg-1/Leetcode/tree/master/3093-longest-common-suffix-queries) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/tanish-garg-1/Leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
+| [3612-process-string-with-special-operations-i](https://github.com/tanish-garg-1/Leetcode/tree/master/3612-process-string-with-special-operations-i) |
 ## Trie
 |  |
 | ------- |
@@ -481,4 +482,8 @@
 |  |
 | ------- |
 | [3161-block-placement-queries](https://github.com/tanish-garg-1/Leetcode/tree/master/3161-block-placement-queries) |
+## Simulation
+|  |
+| ------- |
+| [3612-process-string-with-special-operations-i](https://github.com/tanish-garg-1/Leetcode/tree/master/3612-process-string-with-special-operations-i) |
 <!---LeetCode Topics End-->
