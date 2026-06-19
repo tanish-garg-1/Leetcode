@@ -53,6 +53,7 @@
 | [1306-jump-game-iii](https://github.com/tanish-garg-1/Leetcode/tree/master/1306-jump-game-iii) |
 | [1340-jump-game-v](https://github.com/tanish-garg-1/Leetcode/tree/master/1340-jump-game-v) |
 | [1370-count-number-of-nice-subarrays](https://github.com/tanish-garg-1/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
+| [1732-find-the-highest-altitude](https://github.com/tanish-garg-1/Leetcode/tree/master/1732-find-the-highest-altitude) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/tanish-garg-1/Leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1755-defuse-the-bomb](https://github.com/tanish-garg-1/Leetcode/tree/master/1755-defuse-the-bomb) |
 | [1983-maximum-population-year](https://github.com/tanish-garg-1/Leetcode/tree/master/1983-maximum-population-year) |
@@ -295,6 +296,7 @@
 | [0966-binary-subarrays-with-sum](https://github.com/tanish-garg-1/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/tanish-garg-1/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/tanish-garg-1/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
+| [1732-find-the-highest-altitude](https://github.com/tanish-garg-1/Leetcode/tree/master/1732-find-the-highest-altitude) |
 | [1983-maximum-population-year](https://github.com/tanish-garg-1/Leetcode/tree/master/1983-maximum-population-year) |
 ## String
 |  |
