@@ -56,6 +56,7 @@
 | [1732-find-the-highest-altitude](https://github.com/tanish-garg-1/Leetcode/tree/master/1732-find-the-highest-altitude) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/tanish-garg-1/Leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1755-defuse-the-bomb](https://github.com/tanish-garg-1/Leetcode/tree/master/1755-defuse-the-bomb) |
+| [1840-maximum-building-height](https://github.com/tanish-garg-1/Leetcode/tree/master/1840-maximum-building-height) |
 | [1983-maximum-population-year](https://github.com/tanish-garg-1/Leetcode/tree/master/1983-maximum-population-year) |
 | [2540-minimum-common-value](https://github.com/tanish-garg-1/Leetcode/tree/master/2540-minimum-common-value) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/tanish-garg-1/Leetcode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
@@ -107,6 +108,7 @@
 | [1013-fibonacci-number](https://github.com/tanish-garg-1/Leetcode/tree/master/1013-fibonacci-number) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/tanish-garg-1/Leetcode/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1370-count-number-of-nice-subarrays](https://github.com/tanish-garg-1/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
+| [1840-maximum-building-height](https://github.com/tanish-garg-1/Leetcode/tree/master/1840-maximum-building-height) |
 ## Matrix
 |  |
 | ------- |
@@ -128,6 +130,7 @@
 | [0347-top-k-frequent-elements](https://github.com/tanish-garg-1/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0455-assign-cookies](https://github.com/tanish-garg-1/Leetcode/tree/master/0455-assign-cookies) |
 | [1340-jump-game-v](https://github.com/tanish-garg-1/Leetcode/tree/master/1340-jump-game-v) |
+| [1840-maximum-building-height](https://github.com/tanish-garg-1/Leetcode/tree/master/1840-maximum-building-height) |
 ## Two Pointers
 |  |
 | ------- |
