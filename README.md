@@ -56,6 +56,7 @@
 | [1732-find-the-highest-altitude](https://github.com/tanish-garg-1/Leetcode/tree/master/1732-find-the-highest-altitude) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/tanish-garg-1/Leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1755-defuse-the-bomb](https://github.com/tanish-garg-1/Leetcode/tree/master/1755-defuse-the-bomb) |
+| [1833-maximum-ice-cream-bars](https://github.com/tanish-garg-1/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/tanish-garg-1/Leetcode/tree/master/1840-maximum-building-height) |
 | [1983-maximum-population-year](https://github.com/tanish-garg-1/Leetcode/tree/master/1983-maximum-population-year) |
 | [2540-minimum-common-value](https://github.com/tanish-garg-1/Leetcode/tree/master/2540-minimum-common-value) |
@@ -130,6 +131,7 @@
 | [0347-top-k-frequent-elements](https://github.com/tanish-garg-1/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0455-assign-cookies](https://github.com/tanish-garg-1/Leetcode/tree/master/0455-assign-cookies) |
 | [1340-jump-game-v](https://github.com/tanish-garg-1/Leetcode/tree/master/1340-jump-game-v) |
+| [1833-maximum-ice-cream-bars](https://github.com/tanish-garg-1/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/tanish-garg-1/Leetcode/tree/master/1840-maximum-building-height) |
 ## Two Pointers
 |  |
@@ -263,6 +265,7 @@
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/tanish-garg-1/Leetcode/tree/master/0455-assign-cookies) |
+| [1833-maximum-ice-cream-bars](https://github.com/tanish-garg-1/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -492,4 +495,8 @@
 |  |
 | ------- |
 | [3612-process-string-with-special-operations-i](https://github.com/tanish-garg-1/Leetcode/tree/master/3612-process-string-with-special-operations-i) |
+## Counting Sort
+|  |
+| ------- |
+| [1833-maximum-ice-cream-bars](https://github.com/tanish-garg-1/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 <!---LeetCode Topics End-->
