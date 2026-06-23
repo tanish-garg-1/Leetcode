@@ -96,6 +96,7 @@
 | [1250-longest-common-subsequence](https://github.com/tanish-garg-1/Leetcode/tree/master/1250-longest-common-subsequence) |
 | [1340-jump-game-v](https://github.com/tanish-garg-1/Leetcode/tree/master/1340-jump-game-v) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/tanish-garg-1/Leetcode/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [3699-number-of-zigzag-arrays-i](https://github.com/tanish-garg-1/Leetcode/tree/master/3699-number-of-zigzag-arrays-i) |
 ## Math
 |  |
 | ------- |
@@ -306,6 +307,7 @@
 | [1370-count-number-of-nice-subarrays](https://github.com/tanish-garg-1/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1732-find-the-highest-altitude](https://github.com/tanish-garg-1/Leetcode/tree/master/1732-find-the-highest-altitude) |
 | [1983-maximum-population-year](https://github.com/tanish-garg-1/Leetcode/tree/master/1983-maximum-population-year) |
+| [3699-number-of-zigzag-arrays-i](https://github.com/tanish-garg-1/Leetcode/tree/master/3699-number-of-zigzag-arrays-i) |
 ## String
 |  |
 | ------- |
