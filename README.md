@@ -64,12 +64,14 @@
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/tanish-garg-1/Leetcode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3093-longest-common-suffix-queries](https://github.com/tanish-garg-1/Leetcode/tree/master/3093-longest-common-suffix-queries) |
 | [3161-block-placement-queries](https://github.com/tanish-garg-1/Leetcode/tree/master/3161-block-placement-queries) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/tanish-garg-1/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/tanish-garg-1/Leetcode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/tanish-garg-1/Leetcode/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/tanish-garg-1/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/tanish-garg-1/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -228,6 +230,7 @@
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/tanish-garg-1/Leetcode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/tanish-garg-1/Leetcode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/tanish-garg-1/Leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/tanish-garg-1/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Counting
 |  |
 | ------- |
@@ -236,6 +239,7 @@
 | [1034-subarrays-with-k-different-integers](https://github.com/tanish-garg-1/Leetcode/tree/master/1034-subarrays-with-k-different-integers) |
 | [1189-maximum-number-of-balloons](https://github.com/tanish-garg-1/Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1983-maximum-population-year](https://github.com/tanish-garg-1/Leetcode/tree/master/1983-maximum-population-year) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/tanish-garg-1/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Stack
 |  |
 | ------- |
@@ -308,6 +312,7 @@
 | [1732-find-the-highest-altitude](https://github.com/tanish-garg-1/Leetcode/tree/master/1732-find-the-highest-altitude) |
 | [1983-maximum-population-year](https://github.com/tanish-garg-1/Leetcode/tree/master/1983-maximum-population-year) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/tanish-garg-1/Leetcode/tree/master/3699-number-of-zigzag-arrays-i) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/tanish-garg-1/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## String
 |  |
 | ------- |
@@ -496,6 +501,7 @@
 |  |
 | ------- |
 | [3161-block-placement-queries](https://github.com/tanish-garg-1/Leetcode/tree/master/3161-block-placement-queries) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/tanish-garg-1/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Simulation
 |  |
 | ------- |
@@ -504,4 +510,8 @@
 |  |
 | ------- |
 | [1833-maximum-ice-cream-bars](https://github.com/tanish-garg-1/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
+## Merge Sort
+|  |
+| ------- |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/tanish-garg-1/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 <!---LeetCode Topics End-->
